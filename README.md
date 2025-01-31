@@ -1,2 +1,2 @@
 # Machine_learning_course
-Repositório para o curso de Machine Learning com Python
+Este repositório faz parte do curso Machine Learning e Data Science com Python de A a Z, e é exclusivamente dedicado a projetos de Machine Learning.
